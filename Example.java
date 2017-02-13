@@ -28,7 +28,7 @@ public static void main(String... args)
 				System.out.println("Kolichestvo chisel massiva iz ukazannogo diapazona sostavlyaet   " + massiv(array, min1, max1));
                 
         }
-
+//gfhgfhfgh
         
         public static int rnd(int min, int max)
         {
